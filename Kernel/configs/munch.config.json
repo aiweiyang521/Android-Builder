@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "K40S",
-      "repo": "https://github.com/Mandi-Sa/micode-munch-s-oss",
-      "branch": "munch-s-oss",
+      "repo": "https://github.com/diphons/D8G_Kernel_oxygen/tree/13",
+      "branch": "13",
       "device": "munch",
-      "defconfig": "defconfig"
+      "defconfig": "vendor/xiaomi/munch.config"
     },
    "toolchains": [
   {
